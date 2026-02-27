@@ -1,13 +1,12 @@
 name: Generate Snake
 
-# Grant write permission for pushing to the repo from workflows
-permissions:
-  contents: write
-
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
