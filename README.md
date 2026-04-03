@@ -28,7 +28,7 @@ Email Me 👉 ✉️ **contact@bipinmishra.dev** For Collaboration/Project or An
 
 | 🌐 Website | 💼 LinkedIn | ⚫️ X | 🐙 GitHub | 📧 Email |
 | :----------: | :--------: | :--------: | :-------: | :------: |
-| [bipinmishra.dev](https://www.bipinmishra.dev/) | [in/bipin-mishra16](https://www.linkedin.com/in/bipin-mishra16/) | [@bipin_mishra16](https://x.com/bipin_mishra16) | [@bipinmishra16](https://github.com/bipinmishra16) | [contact@bipinmishra.com](mailto:contact@bipinmishra.com) |
+| [bipinmishra.dev](https://www.bipinmishra.dev/) | [in/bipin-mishra16](https://www.linkedin.com/in/bipin-mishra16/) | [@bipin16mishra](https://x.com/bipin16mishra) | [@bipinmishra16](https://github.com/bipinmishra16) | [contact@bipinmishra.com](mailto:contact@bipinmishra.com) |
 
 ---
 
