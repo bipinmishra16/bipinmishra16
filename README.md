@@ -16,13 +16,6 @@ Email Me 👉 ✉️ **contact@bipinmishra.dev** For Collaboration/Project or An
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bipin_mishra16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bipin-mishra-219092188) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bipin16mishra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@bipinmishra.dev) 
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg/?username=bipinmishra16" alt="Snake animation" />
-</div>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bipinmishra16&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
