@@ -14,11 +14,13 @@ Email Me 👉 ✉️ **contact@bipinmishra.dev** For Collaboration/Project or An
 
 ## 🛠️ Tech Stack
 
-- **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React, Next.js, Svelte, Vue, Angular  
-- **Styling & Design:** CSS3, SASS (SCSS), Less, Tailwind CSS, Figma 
-- **Backend & Tools:** Node.js, Express, Firebase, Supabase, MongoDB, Git  
-- **Testing & QA:** Jest
-- **Other:** WebGL, THREE.js, GSAP, Motion, Ogl
+- **🚀 Frontend:** React, Next.js (App Router), TypeScript, JavaScript (ES6+), Tailwind CSS, SCSS, Framer Motion, GSAP  
+- **⚙️ Backend:** Node.js, Express.js, Authentication (JWT, Cookies, Sessions)
+- **🗄️ Database:** MongoDB, MySQL  
+- **🔗 Tools & DevOps:** Git, GitHub, Postman, Thunder Client, Vite, Webpack, Docker (basic)
+- **🧪 Testing:** Jest (basic)
+- **🎨 Design & UI:** Figma, Responsive & Mobile-first Design
+- **⚡ Specialization:** High-performance web apps, Scalable architecture, API optimization & caching
 
 ---
 
